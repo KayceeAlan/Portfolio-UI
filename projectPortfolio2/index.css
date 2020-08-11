@@ -425,4 +425,7 @@ body {
         transform: scale(1);
         cursor: pointer;
     }
+    #middle h1{
+        font-size: 50px;
+    }
 }
